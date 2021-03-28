@@ -6,7 +6,7 @@ Team 1: Humera Anjum, Michael Friesen, Mike Hills, Ainash Toleu, Sam Ziegler
 # Problem:
 This project seeks to better understand the relationship between criminal activity and police responses, particularly in terms of police force used. This is so that we can analyze patterns of police responses and in turn be aware of possible biases in use of force to be able to make recommendations on policy.
 	
-# Research Questions to Answer:
+# Research Questions:
 1.	What incidents result the most in police use of force? (Sam)
 2.	What type of force is used the most? (Ainash)
 3.	Which is the most popular type of resistance? (Humera)
