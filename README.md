@@ -1,4 +1,3 @@
-# project-1
 # Police Use of Force in Minneapolis, MN
 
 Team 1: Humera Anjum, Michael Friesen, Mike Hills, Ainash Toleu, Sam Ziegler
@@ -10,11 +9,11 @@ This project seeks to better understand the relationship between criminal activi
 1.	What incidents result the most in police use of force? (Sam)
 2.	What type of force is used the most? (Ainash)
 3.	Which is the most popular type of resistance? (Humera)
-4.	Which neighborhood in Minneapolis see’s the highest frequency of police force? (Mike Hills)
+4.	Which neighborhood in Minneapolis contains the highest frequency of police force? (Mike Hills)
 5.	Is the use of police force in Minneapolis going up or down? (Mike F)
 6.	Perform a linear regression on use of force between 2015 and 2019 and make a prediction about use of force in 2020 for the city of MInneapolis.  Compare this prediction to actual use of force outcomes in 2020. (Mike Hills)
 
-# Dataset:
+# Data:
 
 https://opendata.minneapolismn.gov/datasets/police-use-of-force/data
 
